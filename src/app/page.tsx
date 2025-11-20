@@ -176,10 +176,10 @@ export default function Home() {
             </h2>
             <div className="space-y-6 text-zinc-400 text-lg">
               <p>
-                Welcome to Model IronWorks. For over 25 years, I've been dedicated to creating stunning metal fabrications that combine functionality with great design.
+                Welcome to Model IronWorks. For over 25 years, I&apos;ve been dedicated to creating stunning metal fabrications that combine functionality with great design.
               </p>
               <p>
-                My journey in metalworking began with a passion for transforming raw materials into beautiful, durable structures. Over the decades, I've honed my skills in welding and custom metal fabrication.
+                My journey in metalworking began with a passion for transforming raw materials into beautiful, durable structures. Over the decades, I&apos;ve honed my skills in welding and custom metal fabrication.
               </p>
               <p>
                 From elegant handrails and staircases to custom gates, every project receives my personal attention to detail and commitment to safety.
